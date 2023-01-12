@@ -1,2 +1,2 @@
 # rangle-next
-TOkens for Rangle website
+Tokens for Rangle website
